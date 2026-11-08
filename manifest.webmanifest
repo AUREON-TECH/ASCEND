@@ -1,0 +1,19 @@
+{
+  "id": "/ASCEND/",
+  "name": "ASCEND — Eleve sua vida",
+  "short_name": "ASCEND",
+  "description": "Sua pirâmide de prioridades, sonhos e conquistas.",
+  "start_url": "/ASCEND/",
+  "scope": "/ASCEND/",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#080a0f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
